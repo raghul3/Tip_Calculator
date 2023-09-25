@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">State</string>
+    <string name="Calculatetip">Calculate tip !</string>
+    <string name="Billamount">Bill Amount</string>
+    <string name="tippercent">Tip Percentage</string>
+    <string name="roundup">Round up tip?</string>
+    <string name="tipamount">Tip Amount: %s</string>
+
+
+
+
+</resources>
