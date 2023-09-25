@@ -1,5 +1,6 @@
 # Tip_Calculator
 Application that calculates tip for the Amount given by the user and the percentage accordingly and an ption to round up the value.
-<img src= "https://github.com/raghul3/Tip_Calculator/assets/81759525/c0e81ff5-5f21-4749-b2f1-790c147358d4" width="180" height="280">
+
+<img src= "https://github.com/raghul3/Tip_Calculator/assets/81759525/c0e81ff5-5f21-4749-b2f1-790c147358d4" alt ="The Tip Calcy" width="180" height="280">
 
 
